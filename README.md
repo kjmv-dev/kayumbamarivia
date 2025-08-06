@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile!
 
-I'm an experienced Software Developer proficient in JavaScript, Java, PHP, Laravel, and React. With a strong foundation in both front-end and back-end development, I thrive on crafting efficient, scalable solutions to complex problems.
+I'm an experienced Software Developer proficient in JavaScript, Java, PHP, Laravel, angular, vuejs 
+and React. With a strong foundation in both front-end and back-end development, I thrive on crafting efficient, scalable solutions to complex problems.
 
 ## 🔭 What I'm Working On
 Currently, I'm diving deeper into Java and STUDENT MANAGEMENT SYSTEM. I'm excited to explore its potential and contribute to its growth.
